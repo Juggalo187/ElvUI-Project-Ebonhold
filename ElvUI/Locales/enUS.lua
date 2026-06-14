@@ -317,7 +317,8 @@ L["silverabbrev"] = "|cffc7c7cfs|r"
 L["whispers"] = true
 L["yells"] = true
 L["|cFFE30000Lua error recieved. You can view the error message when you exit combat."] = true
-
+--juggalo187
+L["Hold Shift to reverse the sort direction"] = true
 ----------------------------------
 L["RED_ENABLE"] = "|cFFff3333Enable|r"
 L["GREEN_ENABLE"] = "|cFF33ff33Enable|r"
